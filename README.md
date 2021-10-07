@@ -25,4 +25,4 @@ You will use App Engine Studio to build:
 
 Let's get started!
 
-[Proceed to Exercise 1 - Create the App](Exercise2-CreateApp.md)
+[Proceed to Exercise 1 - Create the App](Exercise1-CreateApp.md)
