@@ -1,6 +1,6 @@
 ## Exercise 3 - Create the Experiences
 
-In this exercise you'll create a workspace and catalog experience for the application.
+In this exercise, you will create a workspace and catalog experience for the application.
 
 ### Create a Workspace Experience
 
@@ -22,8 +22,8 @@ A workspace gives your fulfillers and approvers a way to interact with your appl
 
 1. The data screen should have the following values:
 
-    * Primary Table: **Request**
-    * Secondary Tables: **Type**
+    * _Primary Table_: **Request**
+    * _Secondary Tables_: **Type**
 
     ![data screen](images/2021-10-06-14-34-26.png)
 
@@ -31,7 +31,7 @@ A workspace gives your fulfillers and approvers a way to interact with your appl
 
 ### Create a Catalog Item
 
-A catalog item will allow your requesters to open a request from your portal via an easy to use form.
+A catalog item will allow your requesters to open a request from your portal via an easy-to-use form.
 
 1. Click **+Add** next to experience.
 
@@ -41,8 +41,8 @@ A catalog item will allow your requesters to open a request from your portal via
 
 1. In the form that comes up enter:
 
-    * Name: **Departmental Request**
-    * Description: **Submit a departmental request**
+    * _Name_: **Departmental Request**
+    * _Description_: **Submit a departmental request**
 
     ![experience screen](images/2021-10-06-14-36-18.png)
 
@@ -50,7 +50,7 @@ A catalog item will allow your requesters to open a request from your portal via
 
 1. The name and description should be shown on this screen. In the item details section, enter this _Description_:
 
-    **Fill out the type of request and details about the request. Upon approval and fulfillment you will receive an email.**
+    **Fill out the type of request and details about the request. Upon approval and fulfillment, you will receive an email.**
 
 1. Click **Continue to Destination** at the bottom right.
 
@@ -62,11 +62,11 @@ A catalog item will allow your requesters to open a request from your portal via
 
 1. Click **Continue to Location**.
 
-1. Now you'll need to choose where this catalog item will live. Click **Browse** under _Catalogs_.
+1. Now you will choose where this catalog item will live. Click **Browse** under _Catalogs_.
 
 1. Choose the **Service Catalog** and use the \> to move it to the right bucket.
 
-    ![](images/2021-10-06-14-38-46.png)
+    ![catalog selection](images/2021-10-06-14-38-46.png)
 
 1. Click **Save selections**.
 
@@ -74,7 +74,7 @@ A catalog item will allow your requesters to open a request from your portal via
 
 1. Choose the **Can we help you?** and use the \> to move it to the right bucket.
 
-    ![](images/2021-10-06-14-39-14.png)
+    ![category selection](images/2021-10-06-14-39-14.png)
 
 1. Click **Save selections**.
 
@@ -82,47 +82,47 @@ A catalog item will allow your requesters to open a request from your portal via
 
 1. Choose **Insert new question**.
 
-    ![](images/2021-10-06-14-39-39.png)
+    ![insert new question button](images/2021-10-06-14-39-39.png)
 
 1. Fill out the question form as follows:
 
-    * Question type: **Choice**
-    * Question subtype: **Record reference**
+    * _Question type_: **Choice**
+    * _Question subtype_: **Record reference**
 
-    ![](images/2021-10-06-14-41-21.png)
+    ![top of form](images/2021-10-06-14-41-21.png)
 
-    * Map to a specific field on the table: **true** (checked)
-    * Table field: **Type**
-    * Question label: **Choose the type of request**
-    * Mandatory: **true**
+    * _Map to a specific field on the table_: **true** (checked)
+    * _Table field_: **Type**
+    * _Question label_: **Choose the type of request**
+    * _Mandatory_: **true**
 
-    ![](images/2021-10-06-14-40-53.png)
+    ![bottom of form](images/2021-10-06-14-40-53.png)
 
 1. Click **Continue to Additional details**.
 
 1. Set the _Source table_ to your **Type** table.
 
-    ![](images/2021-10-06-14-44-11.png)
+    ![source table](images/2021-10-06-14-44-11.png)
 
 1. Click the **Insert Question** button at the bottom right of your screen under _Question Preview_.
 
-    ![](images/2021-10-06-14-45-20.png)
+    ![insert question button](images/2021-10-06-14-45-20.png)
 
 1. Click the **Insert new question** button to insert another question.
 
 1. Fill out the question form as follows:
 
-    * Question type: **Test**
-    * Question subtype: **Multi-line**
+    * _Question type_: **Test**
+    * _Question subtype_: **Multi-line**
 
-    ![](images/2021-10-06-14-45-54.png)
+    ![top of form](images/2021-10-06-14-45-54.png)
 
-    * Map to a specific field on the table: **true** (checked)
-    * Table field: **Description**
-    * Question label: **Describe your request in as much detail as possible**
-    * Mandatory: **true**
+    * _Map to a specific field on the table_: **true** (checked)
+    * _Table field_: **Description**
+    * _Question label_: **Describe your request in as much detail as possible**
+    * _Mandatory_: **true**
 
-    ![](images/2021-10-06-14-47-13.png)
+    ![bottom of form](images/2021-10-06-14-47-13.png)
 
 1. Click the **Insert Question** button at the bottom right of your screen under _Question Preview_.
 
@@ -132,9 +132,9 @@ A catalog item will allow your requesters to open a request from your portal via
 
 1. Click **Continue to Review and Submit**.
 
-1. This shows you a full view of everything you've filled out. Click the **Submit** button at the top of this form to make this catalog item available.
+1. This shows you a full view of everything you've filled out. Click the **Submit** button at the top of this form to make this catalog item available in the Service Catalog.
 
-    ![](images/2021-10-06-14-59-01.png)
+    ![item preview screen](images/2021-10-06-14-59-01.png)
 
 1. Click **Return to my application**.
 
