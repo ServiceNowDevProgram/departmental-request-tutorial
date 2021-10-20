@@ -112,7 +112,7 @@ A catalog item will allow your requesters to open a request from your portal via
 
 1. Fill out the question form as follows:
 
-    * _Question type_: **Test**
+    * _Question type_: **Text**
     * _Question subtype_: **Multi-line**
 
     ![top of form](images/2021-10-06-14-45-54.png)
