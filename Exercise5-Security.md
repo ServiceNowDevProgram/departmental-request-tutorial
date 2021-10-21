@@ -2,6 +2,12 @@
 
 In this exercise, you will create roles and add security to your tables.
 
+### Demo Video
+
+Click the thumbnail below to launch a YouTube video of someone working through this exercise. 
+
+[![Overall app build video](https://img.youtube.com/vi/inR4UIuVjBA/0.jpg)](https://www.youtube.com/watch?v=inR4UIuVjBA)
+
 ### Elevate your privelges
 
 1. Switch back to the platform view of your instance, which was the view with the left hand navigation you had when you first logged in. If you've closed that tab, open another tab with url: https://devXXXXXXX.service-now.com (replace XXXXXX with your instance number).

@@ -2,6 +2,12 @@
 
 In this exercise, you will create two tables, add fields, and configure the forms.
 
+### Demo Video
+
+Click the thumbnail below to launch a YouTube video of someone working through this exercise. 
+
+[![Overall app build video](https://img.youtube.com/vi/dDBcfXCrewA/0.jpg)](https://www.youtube.com/watch?v=dDBcfXCrewA)
+
 ### Create a Request table
 
 1. Open the Add data screen by click **+Add** or **+ Add a table or upload a spreadsheet** in the *Data* section.

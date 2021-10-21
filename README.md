@@ -4,6 +4,12 @@ In this tutorial, you will learn how to use App Engine Studio to build a departm
 
 You can find a completed version of this app on GitHub: [departmental-request-app](https://github.com/ServiceNowDevProgram/departmental-request-app)
 
+## Demo
+
+You can watch a 10-minute video of the app being built and tested, and each of the exercises in this tutorial have a more detailed video of someone working through the exercise.
+
+[![Overall app build video](https://img.youtube.com/vi/fy3RWHhlr0k/0.jpg)](https://www.youtube.com/watch?v=fy3RWHhlr0k)
+
 ## Prerequisites
 
 You will need a Rome PDI with the latest version of App Engine Studio installed. You can follow the instructions at the bottom of the [Rome AES blog post](https://devlink.sn/rome-aes?utm_source=app-tutorial) to upgrade AES to version 20.0.1 or to check the version.

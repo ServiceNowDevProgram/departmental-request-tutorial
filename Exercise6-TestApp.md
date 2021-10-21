@@ -2,6 +2,12 @@
 
 For this exercise, you're going to test the app as an admin user to reduce the amount of role and group administration.
 
+### Demo Video
+
+Click the thumbnail below to launch a YouTube video of someone working through this exercise. 
+
+[![Overall app build video](https://img.youtube.com/vi/pWRwI_EO5hM/0.jpg)](https://www.youtube.com/watch?v=pWRwI_EO5hM)
+
 ### Set up your test data
 
 You'll need to add the admin user to the _Marketing_ and _Marketing Approval_ groups.

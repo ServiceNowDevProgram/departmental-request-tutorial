@@ -2,6 +2,12 @@
 
 In this exercise, you will create a workspace and catalog experience for the application.
 
+### Demo Video
+
+Click the thumbnail below to launch a YouTube video of someone working through this exercise. 
+
+[![Overall app build video](https://img.youtube.com/vi/1_qtlNEraj8/0.jpg)](https://www.youtube.com/watch?v=1_qtlNEraj8)
+
 ### Create a Workspace Experience
 
 A workspace gives your fulfillers and approvers a way to interact with your application.

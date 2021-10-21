@@ -2,6 +2,12 @@
 
 In this exercise, you will launch App Engine Studio and create an application.
 
+### Demo Video
+
+Click the thumbnail below to launch a YouTube video of someone working through this exercise.
+
+[![Overall app build video](https://img.youtube.com/vi/6kjC2x4xC8U/0.jpg)](https://www.youtube.com/watch?v=6kjC2x4xC8U)
+
 ### Launch App Engine Studio
 
 1. Log in to your Personal Developer Instance (PDI) as the admin user. If you do not have a PDI, open the [ServiceNow Developer Site](https://developer.servicenow.com/) to obtain a Rome PDI.
