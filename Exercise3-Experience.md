@@ -6,7 +6,9 @@ In this exercise, you will create a workspace and catalog experience for the app
 
 Click the thumbnail below to launch a YouTube video of someone working through this exercise. 
 
-[![Overall app build video](https://img.youtube.com/vi/1_qtlNEraj8/0.jpg)](https://www.youtube.com/watch?v=1_qtlNEraj8)
+<!--[![Overall app build video](https://img.youtube.com/vi/1_qtlNEraj8/0.jpg)](https://www.youtube.com/watch?v=1_qtlNEraj8)-->
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/1_qtlNEraj8/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ### Create a Workspace Experience
 

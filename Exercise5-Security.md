@@ -6,7 +6,9 @@ In this exercise, you will create roles and add security to your tables.
 
 Click the thumbnail below to launch a YouTube video of someone working through this exercise. 
 
-[![Overall app build video](https://img.youtube.com/vi/inR4UIuVjBA/0.jpg)](https://www.youtube.com/watch?v=inR4UIuVjBA)
+<!--[![Overall app build video](https://img.youtube.com/vi/inR4UIuVjBA/0.jpg)](https://www.youtube.com/watch?v=inR4UIuVjBA)-->
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/inR4UIuVjBA/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ### Elevate your privelges
 

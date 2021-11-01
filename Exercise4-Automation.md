@@ -6,7 +6,9 @@ In this exercise, you will use flow designer to add an approval and emails to yo
 
 Click the thumbnail below to launch a YouTube video of someone working through this exercise. 
 
-[![Overall app build video](https://img.youtube.com/vi/nBksnL7Jo9w/0.jpg)](https://www.youtube.com/watch?v=nBksnL7Jo9w)
+<!--[![Overall app build video](https://img.youtube.com/vi/nBksnL7Jo9w/0.jpg)](https://www.youtube.com/watch?v=nBksnL7Jo9w)-->
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/nBksnL7Jo9w/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ### Create an Approval Flow
 

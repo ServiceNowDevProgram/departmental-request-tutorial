@@ -6,7 +6,9 @@ In this exercise, you will create two tables, add fields, and configure the form
 
 Click the thumbnail below to launch a YouTube video of someone working through this exercise. 
 
-[![Overall app build video](https://img.youtube.com/vi/dDBcfXCrewA/0.jpg)](https://www.youtube.com/watch?v=dDBcfXCrewA)
+<!--[![Overall app build video](https://img.youtube.com/vi/dDBcfXCrewA/0.jpg)](https://www.youtube.com/watch?v=dDBcfXCrewA)-->
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/dDBcfXCrewA/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ### Create a Request table
 

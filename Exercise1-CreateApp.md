@@ -6,7 +6,9 @@ In this exercise, you will launch App Engine Studio and create an application.
 
 Click the thumbnail below to launch a YouTube video of someone working through this exercise.
 
-[![Overall app build video](https://img.youtube.com/vi/6kjC2x4xC8U/0.jpg)](https://www.youtube.com/watch?v=6kjC2x4xC8U)
+<!--[![Overall app build video](https://img.youtube.com/vi/6kjC2x4xC8U/0.jpg)](https://www.youtube.com/watch?v=6kjC2x4xC8U)-->
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/6kjC2x4xC8U/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ### Launch App Engine Studio
 
