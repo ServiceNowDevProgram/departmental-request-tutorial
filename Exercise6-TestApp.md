@@ -6,7 +6,9 @@ For this exercise, you're going to test the app as an admin user to reduce the a
 
 Click the thumbnail below to launch a YouTube video of someone working through this exercise. 
 
-[![Overall app build video](https://img.youtube.com/vi/pWRwI_EO5hM/0.jpg)](https://www.youtube.com/watch?v=pWRwI_EO5hM)
+<!--[![Overall app build video](https://img.youtube.com/vi/pWRwI_EO5hM/0.jpg)](https://www.youtube.com/watch?v=pWRwI_EO5hM)-->
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/pWRwI_EO5hM/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ### Set up your test data
 
@@ -88,3 +90,6 @@ Generally, approvals happen through email or mobile, but they can also happen th
 
     ![email list](images/2021-10-06-17-14-36.png)
 
+## What Now?
+
+To learn more about building applications using ServiceNow
