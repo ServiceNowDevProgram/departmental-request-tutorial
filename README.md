@@ -6,9 +6,11 @@ You can find a completed version of this app on GitHub: [departmental-request-ap
 
 ## Demo
 
-You can watch a 10-minute video of the app being built and tested, and each of the exercises in this tutorial have a more detailed video of someone working through the exercise.
+You can watch a 10-minute video of the app being built and tested, and each of the exercises in this tutorial has a more detailed video of someone working through the exercise.
 
-[![Overall app build video](https://img.youtube.com/vi/fy3RWHhlr0k/0.jpg)](https://www.youtube.com/watch?v=fy3RWHhlr0k)
+<!--[![Overall app build video](https://img.youtube.com/vi/fy3RWHhlr0k/0.jpg)](https://www.youtube.com/watch?v=fy3RWHhlr0k)-->
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/fy3RWHhlr0k/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ## Prerequisites
 
