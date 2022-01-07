@@ -146,4 +146,4 @@ A catalog item will allow your requesters to open a request from your portal via
 
 1. Click **Return to my application**.
 
-[Proceed to Exercise 4 - Add automation](Exercise4-Automation.md)
+{CONTENT_HIDE} [Proceed to Exercise 4 - Add automation](Exercise4-Automation.md)

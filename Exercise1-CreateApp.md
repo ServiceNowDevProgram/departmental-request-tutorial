@@ -38,4 +38,4 @@ Click the thumbnail below to launch a YouTube video of someone working through t
 
     ![go to app home](images/2021-10-05-14-01-05.png)
 
-[Proceed to Exercise 2 - Create a Data Model](Exercise2-DataModel.md)
+{CONTENT_HIDE} [Proceed to Exercise 2 - Create a Data Model](Exercise2-DataModel.md)

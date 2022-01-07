@@ -210,4 +210,4 @@ In this section, you will create a flow to send an email notification when the r
 
 1. **Save** and **Activate** the flow.
 
-[Proceed to Exercise 5 - Add security](Exercise5-Security.md)
+{CONTENT_HIDE} [Proceed to Exercise 5 - Add security](Exercise5-Security.md)

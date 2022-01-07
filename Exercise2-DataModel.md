@@ -141,4 +141,4 @@ Click the thumbnail below to launch a YouTube video of someone working through t
 
 1. Click **Save** and close the form designer tab.
 
-[Proceed to Exercise 3 - Create the Experiences](Exercise3-Experience.md)
+{CONTENT_HIDE} [Proceed to Exercise 3 - Create the Experiences](Exercise3-Experience.md)
