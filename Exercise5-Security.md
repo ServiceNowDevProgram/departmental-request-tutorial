@@ -59,4 +59,4 @@ Click the thumbnail below to launch a YouTube video of someone working through t
 
 1. Repeat the previous steps to add a role called _Admin_ that has full access to all tables and experiences.
 
-[Proceed to Exercise 6 - Test your app](Exercise6-TestApp.md)
+{CONTENT_HIDE} [Proceed to Exercise 6 - Test your app](Exercise6-TestApp.md)

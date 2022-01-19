@@ -1,8 +1,8 @@
 # Departmental Request App Tutorial
 
-In this tutorial, you will learn how to use App Engine Studio to build a departmental request app in your [Personal Developer Instance (PDI)](https://developer.servicenow.com/dev.do#!/guides/rome/developer-program/pdi-guide/personal-developer-instance-guide-introduction) through step by step instructions and video.
+{SHORT_DESCRIPTION} In this tutorial, you will learn how to use App Engine Studio to build a departmental request app in your [Personal Developer Instance (PDI)](https://developer.servicenow.com/dev.do#!/guides/rome/developer-program/pdi-guide/personal-developer-instance-guide-introduction) through step by step instructions and video.
 
-You can find a completed version of this app on GitHub: [departmental-request-app](https://github.com/ServiceNowDevProgram/departmental-request-app)
+{GIT_APP_ID}You can find a completed version of this app on GitHub: [departmental-request-app](https://github.com/ServiceNowDevProgram/departmental-request-app)
 
 ## Demo
 
@@ -33,4 +33,6 @@ In this tutorial, you will use App Engine Studio to build:
 1. A completed email flow.
 1. A security model with fulfiller and admin roles.
 
-[Proceed to Exercise 1 - Create the App](Exercise1-CreateApp.md)
+{CONTENT_HIDE} [Proceed to Exercise 1 - Create the App](Exercise1-CreateApp.md)
+
+{MAIN_DC_IDENTIFIER:Departmental_Request_App_Tutorial}
